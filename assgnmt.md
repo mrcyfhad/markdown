@@ -28,8 +28,8 @@ Here's some words about the book _One Hundred Years..._.
 
    Well, do I have [the website for you][another fun place]!
 
-[a fun place]: www.zombo.com
-[another fun place]: www.stumbleupon.com
+[a fun place]: https://www.zombo.com
+[another fun place]: https://www.stumbleupon.com
 
 
 ### Images
