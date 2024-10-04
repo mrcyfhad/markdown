@@ -33,7 +33,7 @@ Here's some words about the book _One Hundred Years..._.
 
 
 ### Images
-1. ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+   ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
    ![Black cat][Black]
 
