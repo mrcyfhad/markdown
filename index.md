@@ -88,6 +88,7 @@ Character's characteristics into sub-bullets.
   * For more help on tomato slicing, see Thomas  Jefferson's seminal essay _Tom Ate Those_.
 
 ### Paragraphs
+
 We pictured the meek mild creatures where  
 They dwelt in their strawy pen,  
 Nor did it occur to one of us there  
