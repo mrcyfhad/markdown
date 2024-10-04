@@ -87,8 +87,8 @@ Character's characteristics into sub-bullets.
   * Be careful when holding the knife.
   * For more help on tomato slicing, see Thomas  Jefferson's seminal essay _Tom Ate Those_.
 
-  ### Paragraphs
-  We pictured the meek mild creatures where  
+### Paragraphs
+We pictured the meek mild creatures where  
 They dwelt in their strawy pen,  
 Nor did it occur to one of us there  
 To doubt they were kneeling then.  
